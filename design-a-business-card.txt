@@ -1,0 +1,89 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Business Card</title>
+    <link src="styles.css" rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="business-card">
+        <img class="profile-image" src="https://i5.walmartimages.com/seo/14-Tall-BIRCH-Wood-Letter-D-Krafty-Supply-1-4-Thick-Wooden-Letters-Wood-Craft-Letter-Monotype-Font-Fancy-Fonts_0fc0e01e-783b-4b20-8f04-38f51c7d7514.5895e51e1d747433c6d9388d5688ccea.png?odnHeight=640&odnWidth=640&odnBg=FFFFFF" alt="letter-d">
+        <p class="full-name">Devon Williams
+        </p>
+        <p class="designation">
+            Software Developer
+        </p>
+        <p class="company">
+            FreeCodeCamp
+        </p>
+        <hr>
+        <p>deewiiilll@gmail.com </p>
+        <p>(309)361-1424</p>
+        <a href="https://www.freecodecamp.org/learn/">Portfolio</a>
+        <hr>
+        <div class="social-media">
+            <h2>Connect with me</h2>
+            <a href="https://x.com/">Twitter</a>
+            <a href="https://www.linkedin.com/in/devon-williams-89078b241/">LinkedIn</a>
+            <a href="https://github.com/Deewill722?tab=repositories">GitHub</a>
+
+
+
+</body>
+
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+body {
+  background-color: rosybrown;
+  font-family: Arial, sans-serif;
+}
+
+p {
+margin-top: 5px;
+margin-bottom: 5px;
+
+}
+a { text-decoration: none;
+
+}
+a:hover {
+  text-decoration: underline;
+}
+.business-card {
+  width: 300px;
+  background-color: silver;
+  padding: 20px;
+  margin-top: 100px;
+  text-align: center;
+  font-size: 16px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.profile-image {
+  max-width: 100%
+  
+}
+.full-name {
+  font-weight: bold;
+  
+}
+.designation {
+  
+}
+.company {
+  
+}
+.social-media{
+  
+}
+
+** end of undefined **
+
